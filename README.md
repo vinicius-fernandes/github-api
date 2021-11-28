@@ -1,5 +1,5 @@
 # Github interface 
-Github interface based on github API created using ReactJS
+Github interface based on github API created using ReactJS foi DIO lesson
 
 
 ![screenshot](screenshot.png?raw=true "screenshot")
